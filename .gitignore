@@ -1,7 +1,8 @@
+bazel*
 CMakeCache.txt
 CMakeFiles
 Makefile
-build
+build/*
 cmake_install.cmake
 install_manifest.txt
 example
